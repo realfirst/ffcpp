@@ -1,0 +1,10029 @@
+cscope 15 $HOME/Dropbox/clp/ffcpp               0000042291
+	@ADouble.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 ˛as†
+	cADoubÀ
+ {
+
+6 
+	mvÆue
+;
+
+7 
+	mpublic
+:
+
+8 
+	$ADoubÀ
+(
+v
+) {
+
+9 
+vÆue
+ = 
+v
+;
+
+11 
+	$mu…ùly
+(
+ADoubÀ
+ 
+d
+) {
+
+12 
+vÆue
+ = vÆuê* 
+d
+.value;
+
+13 
+	}
+}
+
+14 
+	$squ¨ed
+() {
+
+15 
+	`mu…ùly
+(*
+this
+);
+
+16 
+	}
+}
+
+17 
+	$gëVÆue
+() const {
+
+18  
+vÆue
+;
+
+19 
+	}
+}
+
+22 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+23 
+ADoubÀ
+ 
+	`x
+(-12.0);
+
+24 
+x
+.
+	`squ¨ed
+();
+
+25 
+°d
+::
+cout
+ << 
+x
+.
+	`gëVÆue
+(Ë<< std::
+ídl
+;
+
+27 
+	}
+}
+
+	@AInteger.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 ˛as†
+	cAI¡egî
+ {
+
+6 
+	mpublic
+:
+
+7 
+	$AI¡egî
+() {
+
+8 
+vÆue
+ = 0;
+
+11 
+	$AI¡egî
+(
+i
+) {
+
+12 
+vÆue
+ = 
+i
+;
+
+13 
+	}
+}
+
+15 
+	$AI¡egî
+(c⁄° 
+AI¡egî
+ &
+ai
+) {
+
+16 
+vÆue
+ = 
+ai
+.value;
+
+17 
+°d
+::
+cout
+ << " c›y" << std::
+ídl
+;
+
+18 
+	}
+}
+
+23 
+	gAI¡egî
+ &
+	g›î©‹
+ = (c⁄° 
+AI¡egî
+ &
+ai
+) {
+
+24 
+vÆue
+ = 
+ai
+.value;
+
+25 
+	g°d
+::
+cout
+ << " =" << 
+°d
+::
+ídl
+;
+
+26  *
+	gthis
+;
+
+29 
+	g¥iv©e
+:
+
+30 
+vÆue
+;
+
+33 
+	$nŸhög
+(
+AI¡egî
+ 
+a
+, AI¡egî 
+b
+, AI¡egî 
+c
+Ë{ 
+	}
+}
+
+35 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+36 
+AI¡egî
+ 
+	`i
+(14), 
+j
+;
+
+37 
+°d
+::
+cout
+ << "AI¡egî k = i;" << std::
+ídl
+;
+
+38 
+AI¡egî
+ 
+k
+ = 
+i
+;
+
+39 
+°d
+::
+cout
+ << "k = i;" << std::
+ídl
+;
+
+40 
+j
+ = 
+i
+;
+
+41 
+°d
+::
+cout
+ << "nŸhög(i);" << std::
+ídl
+;
+
+42 
+	`nŸhög
+(
+i
+, 
+j
+, 
+k
+);
+
+44 
+	}
+}
+
+	@BigThing.cc
+
+1 
+	~<c°dlib
+>
+
+4 ˛as†
+	cBigThög
+
+
+7 
+	mpublic
+:
+
+8 
+	$BigThög
+() {
+
+9 
+k
+ = 0; k < 100; k++) {
+
+10 
+vÆue
+[
+k
+] = 0;
+
+14 
+	$£t
+(
+k
+, 
+v
+) {
+
+15 i‡((
+k
+ < 0 || k >= 1000)) {
+
+16 
+	`ab‹t
+();
+
+18 
+vÆue
+[
+k
+] = 
+v
+;
+
+19 
+	}
+}
+
+21 
+	$gë
+(
+k
+) {
+
+22 i‡((
+k
+ < 0) || (k >= 1000)) {
+
+25  
+vÆue
+[
+k
+];
+
+27 
+	}
+}
+
+30 
+	g¥iv©e
+:
+
+31 
+vÆue
+[1000];
+
+33 
+	$BigThög
+(c⁄° 
+BigThög
+ &
+bt
+) {
+
+34 
+k
+ = 0; k < 1000; k++) {
+
+35 
+vÆue
+[
+k
+] = 
+bt
+.value[k];
+
+37 
+	}
+}
+
+39 
+	gBigThög
+ &
+	g›î©‹
+ = (c⁄° 
+BigThög
+ &
+bt
+) {
+
+40 
+k
+ = 0; 
+	gk
+ < 1000; k++) {
+
+41 
+	gvÆue
+[
+k
+] = 
+bt
+.
+vÆue
+[k];
+
+46 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+47 
+BigThög
+ 
+x
+;
+
+48 
+BigThög
+ 
+y
+ =
+x
+;
+
+51 
+	}
+}
+
+	@Complex.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 ˛as†
+	cCom∂ex
+ {
+
+6 
+	mpublic
+:
+
+7 
+ª
+, 
+	mim
+;
+
+8 
+	$Com∂ex
+() {
+
+9 
+ª
+ = 0.0;
+
+10 
+im
+ = 0.0;
+
+12 
+	$Com∂ex
+(
+r
+, 
+i
+) {
+
+13 
+ª
+ = 
+r
+;
+
+14 
+im
+ = 
+i
+;
+
+15 
+	}
+}
+
+16 
+Com∂ex
+ 
+	g›î©‹
+ * (c⁄° 
+	gCom∂ex
+ &
+	gz
+) const {
+
+17  
+Com∂ex
+(
+ª
+*
+z
+.ª - 
+im
+*z.im,Ñe*z.im + im*z.re);
+
+23 
+Com∂ex
+ 
+	g›î©‹
+ + (c⁄° 
+	gCom∂ex
+ &
+	gz1
+, c⁄° Com∂ex &
+	gz2
+) {
+
+24  
+Com∂ex
+(
+z1
+.
+ª
+ + 
+z2
+.ª, z1.
+im
+ + z2.im);
+
+27 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+28 
+Com∂ex
+ 
+	`z
+(2.0, 3.0), 
+	`w
+(3.0, -4.0);
+
+29 
+Com∂ex
+ 
+x
+;
+
+30 
+x
+ = 
+z
+ + 
+w
+;
+
+31 
+x
+ = 
+z
+ * 
+w
+;
+
+34 
+	}
+}
+
+	@Complex_v2.cc
+
+1 
+	~<io°ªam
+>
+
+3 ˛as†
+	cCom∂ex
+
+
+6 
+	mpublic
+:
+
+7 
+	$Com∂ex
+() {
+
+8 
+°d
+::
+cout
+ << "Com∂ex::Com∂ex()" << std::
+ídl
+;
+
+9 
+ª
+ = 0.0;
+
+10 
+im
+ = 0.0;
+
+13 
+	$Com∂ex
+(
+x
+) {
+
+14 
+°d
+::
+cout
+ << "Com∂ex::Com∂ex(doubÀ)" << std::
+ídl
+;
+
+15 
+ª
+ = 
+x
+;
+
+16 
+im
+ = 0.0;
+
+17 
+	}
+}
+
+19 
+	$Com∂ex
+(
+r
+, 
+i
+) {
+
+20 
+°d
+::
+cout
+ << "Com∂ex::Com∂ex(doubÀ, doubÀ)" << std::
+ídl
+;
+
+21 
+ª
+ = 
+r
+;
+
+22 
+im
+ = 
+i
+;
+
+23 
+	}
+}
+
+25 
+Com∂ex
+ 
+	g›î©‹
+ + (c⁄° 
+	gCom∂ex
+ &
+	gz
+ ) const {
+
+26 
+	g°d
+::
+cout
+ << "Complex::operator + (const Complex &z) const"
+
+27 << 
+°d
+::
+ídl
+;
+
+28  
+Com∂ex
+(
+ª
+ + 
+z
+.ª, 
+im
+ + z.im);
+
+31 
+Com∂ex
+ 
+	g›î©‹
+ * (c⁄° 
+	gCom∂ex
+ &
+	gz
+) const {
+
+32 
+	g°d
+::
+cout
+ << "Complex::operator * (const Complex &z) const"
+
+33 << 
+°d
+::
+ídl
+;
+
+34  
+Com∂ex
+(
+ª
+*
+z
+.ª - 
+im
+*z.im);
+
+37 
+	g¥iv©e
+:
+
+38 
+ª
+, 
+	gim
+;
+
+50 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+51 
+Com∂ex
+ 
+z
+ = 3.0;
+
+52 
+Com∂ex
+ 
+y
+;
+
+53 
+y
+ = 
+z
+ + 5.0;
+
+55 
+	}
+}
+
+	@First.cc
+
+1 
+	~<io°ªam
+>
+
+3 ˛as†
+	cFú°
+
+
+6 
+	mpublic
+:
+
+7 
+	$Fú°
+(
+y
+) {
+
+8 
+x
+ = 
+y
+;
+
+10 
+boﬁ
+ 
+	$posôive
+() {
+
+11  
+x
+ >= 0.0;
+
+12 
+	}
+}
+
+14 
+	$gëVÆue
+() {
+
+15  
+x
+;
+
+16 
+	}
+}
+
+19 
+	g¥iv©e
+:
+
+20 
+x
+;
+
+23 ˛as†
+	cSec⁄d
+ : 
+public
+ 
+Fú°
+
+
+26 
+public
+:
+
+27 
+	$Sec⁄d
+(
+z
+Ë:
+	$Fú°
+(
+z
+) {};
+
+31 
+boﬁ
+ 
+	$posôiveAndN⁄NuŒ
+() {
+
+32  
+	`posôive
+(Ë&& (
+	`gëVÆue
+() != 0.0);
+
+33 
+	}
+}
+
+34 
+	g¥iv©e
+:
+
+38 
+boﬁ
+ 
+	$bŸhPosôive
+(
+Fú°
+ 
+x
+, Fú° 
+y
+) {
+
+39  
+x
+.
+	`posôive
+(Ë&& 
+y
+.positive();
+
+40 
+	}
+}
+
+42 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+43 
+Sec⁄d
+ 
+	`x
+(3), 
+	`y
+(3);
+
+44 
+	`bŸhPosôive
+(
+x
+, 
+y
+);
+
+46 
+	}
+}
+
+	@First.h
+
+2 #i‚de‡
+_FIRST_H_
+
+
+3 
+	#_FIRST_H_
+
+
+	)
+
+5 ˛as†
+	cFú°
+
+
+8 
+	mpublic
+:
+
+9 
+	$Fú°
+(
+y
+) {
+
+10 
+x
+ = 
+y
+;
+
+12 
+boﬁ
+ 
+	$posôive
+() {
+
+13  
+x
+ >= 0.0;
+
+14 
+	}
+}
+
+16 
+	$gëVÆue
+() {
+
+17  
+x
+;
+
+18 
+	}
+}
+
+21 
+	g¥iv©e
+:
+
+22 
+x
+;
+
+	@ForSureNonNull.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+5 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 ˛as†
+	cF‹SuªN⁄NuŒ
+
+
+10 
+	mpublic
+:
+
+11 
+	$F‹SuªN⁄NuŒ
+(
+v
+) {
+
+12 i‡(
+v
+ == 0) {
+
+13 
+°d
+::
+˚º
+ << "Aª you cøzyÔºüÔºÅ" << std::
+ídl
+;
+
+14 
+	`ab‹t
+();
+
+16 
+vÆue
+ = 
+v
+;
+
+19 
+	$gëVÆue
+() const {
+
+20  
+vÆue
+;
+
+21 
+	}
+}
+
+26 
+	g¥iv©e
+:
+
+27 
+vÆue
+;
+
+30 
+	$sum
+(c⁄° 
+F‹SuªN⁄NuŒ
+ &
+n1
+,
+
+31 c⁄° 
+F‹SuªN⁄NuŒ
+ &
+n2
+) {
+
+32  
+n1
+.
+	`gëVÆue
+(Ë+ 
+n2
+.getValue();
+
+33 
+	}
+}
+
+35 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+36 
+F‹SuªN⁄NuŒ
+ 
+	`x
+(15);
+
+37 
+k
+ = 
+	`sum
+(
+x
+, x);
+
+38 
+°d
+::
+cout
+ << 
+k
+ << std::
+ídl
+;
+
+40 
+	}
+}
+
+	@IntegerSet.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 ˛as†
+	cI¡egîSë
+ {
+
+8 
+	mpublic
+:
+
+9 
+	$I¡egîSë
+(
+sm
+) {
+
+10 
+sizeMax
+ = 
+sm
+;
+
+11 
+d©a
+ = 
+√w
+ [
+sizeMax
+];
+
+12 
+cuºítSize
+ = 0;
+
+14 ~
+	$I¡egîSë
+() {
+
+15 
+dñëe
+[] 
+d©a
+;
+
+16 
+	}
+}
+
+18 
+	$add
+(
+i
+) {
+
+19 i‡(
+cuºítSize
+ < 
+sizeMax
+) {
+
+20 
+d©a
+[
+cuºítSize
+++] = 
+i
+;
+
+22 
+˚º
+ << "ouch!\n";
+
+23 
+	`ab‹t
+();
+
+25 
+	}
+}
+
+27 
+boﬁ
+ 
+	$c⁄èös
+(
+i
+) {
+
+28 
+k
+ = 0; k < 
+cuºítSize
+; k++) {
+
+29 i‡(
+i
+ =
+d©a
+[
+k
+]) {
+
+30  
+åue
+;
+
+33 
+	}
+}
+
+35 
+	g¥iv©e
+:
+
+36 *
+d©a
+;
+
+37 
+	gsizeMax
+, 
+	gcuºítSize
+;
+
+	@IntegerSet_v2.cc
+
+1 ˛as†
+	cI¡egîSë
+ {
+
+2 
+	mpublic
+:
+
+3 
+	$I¡egîSë
+() {
+
+4 
+sizeMax
+ = 10;
+
+5 
+d©a
+ = 
+√w
+ [
+sizeMax
+];
+
+6 
+cuºítSize
+ = 0;
+
+8 ~
+	$I¡egîSë
+() {
+
+9 
+dñëe
+[] 
+d©a
+;
+
+10 
+	}
+}
+
+12 
+	$add
+(
+i
+) {
+
+13 i‡(
+cuºítSize
+ =
+sizeMax
+) {
+
+14 *
+tmp
+ = 
+√w
+ [
+sizeMax
+*2];
+
+15 
+k
+ = 0; k < 
+sizeMax
+; k++) {
+
+16 
+tmp
+[
+k
+] = 
+d©a
+[k];
+
+18 
+dñëe
+[] 
+d©a
+;
+
+19 
+sizeMax
+ = sizeMax*2;
+
+20 
+d©a
+ = 
+tmp
+;
+
+22 
+d©a
+[
+cuºítSize
+++] = 
+i
+;
+
+23 
+	}
+}
+
+25 
+boﬁ
+ 
+	$c⁄èös
+(
+i
+) {
+
+26 
+k
+ = 0; k < 
+cuºítSize
+; k++) {
+
+27 i‡(
+i
+ =
+d©a
+[
+k
+]) {
+
+28  
+åue
+;
+
+31  
+Ál£
+;
+
+32 
+	}
+}
+
+33 
+	g¥iv©e
+:
+
+34 
+sizeMax
+, 
+	gcuºítSize
+;
+
+35 *
+	gd©a
+;
+
+	@LinkedList.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	~"Node.h
+"
+
+4 
+	~"LökedLi°.h
+"
+
+6 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+8 
+	gLökedLi°
+::
+	$LökedLi°
+() {
+
+9 
+fú°
+ = 0;
+
+10 
+	}
+}
+
+12 
+	gLökedLi°
+::
+	$LökedLi°
+(c⁄° 
+LökedLi°
+ &
+l
+) {
+
+13 i‡(
+l
+.
+fú°
+) {
+
+14 
+fú°
+ = 
+l
+.fú°->
+	`˛⁄eAŒ
+();
+
+16 
+fú°
+ = 0;
+
+18 
+	}
+}
+
+20 
+	gLökedLi°
+::~
+	$LökedLi°
+() {
+
+21 i‡(
+fú°
+) {
+
+22 
+fú°
+->
+	`dñëeAŒ
+();
+
+24 
+	}
+}
+
+26 
+	gLökedLi°
+ &LökedLi°::
+›î©‹
+ = (c⁄° 
+LökedLi°
+ &
+l
+) {
+
+27 i‡(&
+l
+ !
+this
+) {
+
+28 i‡(
+fú°
+) {
+
+29 
+fú°
+->
+dñëeAŒ
+();
+
+31 i‡(
+	gl
+.
+	gfú°
+) {
+
+32 
+	gfú°
+ = 
+l
+.
+fú°
+->
+˛⁄eAŒ
+();
+
+34 
+	gfú°
+ = 0;
+
+37  *
+	gthis
+;
+
+40 
+	gLökedLi°
+::
+	$add
+(
+v
+) {
+
+41 
+fú°
+ = 
+√w
+ 
+	`Node
+(fú°, 
+v
+);
+
+42 
+	}
+}
+
+44 
+boﬁ
+ 
+	gLökedLi°
+::
+›î©‹
+ =(c⁄° 
+LökedLi°
+ &
+l
+) const {
+
+45 i‡(
+fú°
+) {
+
+46  
+fú°
+->
+equÆAŒ
+(
+l
+.first);
+
+48  
+	gl
+.
+	gfú°
+ == 0;
+
+52 
+boﬁ
+ 
+	gLökedLi°
+::
+	$c⁄èös
+(
+v
+) const {
+
+53  
+fú°
+ && fú°->
+	`c⁄èös
+(
+v
+);
+
+54 
+	}
+}
+
+56 
+	gLökedLi°
+::
+	$size
+() const {
+
+57 i‡(
+fú°
+) {
+
+58  
+fú°
+->
+	`size
+();
+
+62 
+	}
+}
+
+64 
+	gLökedLi°
+::
+	$¥öt
+() const {
+
+65 
+Node
+ *
+n
+;
+
+66 
+n
+ = 
+fú°
+;Ç !0;Ç =Ç->
+√xt
+) {
+
+67 
+cout
+ << 
+n
+->
+vÆue
+;
+
+68 i‡(
+n
+->
+√xt
+) {
+
+69 
+cout
+ << ", ";
+
+71 
+cout
+ << "\n";
+
+74 
+	}
+}
+
+	@LinkedList.h
+
+2 #i‚de‡
+_LINKEDLIST_H_
+
+
+3 
+	#_LINKEDLIST_H_
+
+
+	)
+
+5 
+	~"Node.h
+"
+
+7 ˛as†
+	cLökedLi°
+ {
+
+8 
+Node
+ *
+	mfú°
+;
+
+9 
+	mpublic
+:
+
+10 
+LökedLi°
+();
+
+11 
+LökedLi°
+(c⁄° LökedLi° &
+l
+);
+
+12 ~
+LökedLi°
+();
+
+13 
+add
+(
+v
+);
+
+14 
+	mLökedLi°
+ &
+	m›î©‹
+ = (c⁄° 
+LökedLi°
+ &
+l
+);
+
+15 
+boﬁ
+ 
+	m›î©‹
+ =(c⁄° 
+LökedLi°
+ &
+l
+) const;
+
+16 
+boﬁ
+ 
+	$c⁄èös
+(
+v
+) const;
+
+17 
+	$size
+() const;
+
+18 
+	$¥öt
+() const;
+
+	@Linked_list_test.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	~"LökedLi°.h
+"
+
+5 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+8 
+LökedLi°
+ 
+l
+;
+
+9 
+l
+.
+	`add
+(13);
+
+10 
+cout
+ << 
+l
+.
+	`c⁄èös
+(12) << " "
+
+11 << 
+l
+.
+	`c⁄èös
+(13Ë<< 
+ídl
+;
+
+12 
+i
+ = 0; i < 10; i++) {
+
+13 
+l
+.
+	`add
+(
+i
+);
+
+15 
+cout
+ << "[" << 
+l
+.
+	`size
+() << "] ";
+
+16 
+l
+.
+	`¥öt
+();
+
+18 
+LökedLi°
+ 
+m
+ = 
+l
+;
+
+19 
+cout
+ << (
+l
+ =
+m
+Ë<< 
+ídl
+;
+
+21 
+cout
+ << "[" << 
+m
+.
+	`size
+() << "]";
+
+22 
+m
+.
+	`¥öt
+();
+
+23 
+m
+.
+	`add
+(19);
+
+25 
+cout
+ << (
+l
+ =
+m
+Ë<< 
+ídl
+;
+
+27 
+	}
+}
+
+	@Matrix.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+4 ˛as†
+	cM©rix
+ {
+
+5 
+	mwidth
+, 
+	mheight
+;
+
+6 *
+	md©a
+;
+
+7 
+	mpublic
+:
+
+8 
+M©rix
+();
+
+9 
+M©rix
+(
+w
+, 
+h
+);
+
+10 
+M©rix
+(c⁄° M©rix &
+m
+);
+
+11 ~
+M©rix
+();
+
+12 
+boﬁ
+ 
+	m›î©‹
+ =(c⁄° 
+M©rix
+ &
+m
+) const;
+
+13 
+	mM©rix
+ &
+	m›î©‹
+ = (c⁄° 
+M©rix
+ &
+m
+);
+
+14 
+M©rix
+ 
+	m›î©‹
+ + (c⁄° 
+	mM©rix
+ &
+	mm
+) const;
+
+15 
+M©rix
+ 
+	m›î©‹
+ * (c⁄° 
+	mM©rix
+ &
+	mm
+) const;
+
+16 &
+	$›î©‹
+ (Ë(
+i
+, 
+j
+);
+
+17 
+	$¥öt
+() const;
+
+20 
+M©rix
+::
+	$M©rix
+() {
+
+21 
+width
+ = 0;
+
+22 
+height
+ = 0;
+
+23 
+d©a
+ = 0;
+
+24 
+	}
+}
+
+26 
+	gM©rix
+::
+	$M©rix
+(
+w
+, 
+h
+) {
+
+27 
+°d
+::
+cout
+ << " Matrix::Matrix(int w, int h)"
+
+28 << 
+°d
+::
+ídl
+;
+
+29 
+width
+ = 
+w
+;
+
+30 
+height
+ = 
+h
+;
+
+31 
+d©a
+ = 
+√w
+ [
+width
+ * 
+height
+];
+
+32 
+	}
+}
+
+34 
+	gM©rix
+::
+	$M©rix
+(c⁄° 
+M©rix
+ &
+m
+) {
+
+35 
+°d
+::
+cout
+ << " Matrix::Matrix(cosnt Matrix &m)"
+
+36 << 
+°d
+::
+ídl
+;
+
+37 
+width
+ = 
+m
+.width;
+
+38 
+height
+ = 
+m
+.height;
+
+39 
+d©a
+ = 
+√w
+ [
+width
+ * 
+height
+];
+
+40 
+k
+ = 0; k < 
+width
+*
+height
+; k++) {
+
+41 
+d©a
+[
+k
+] = 
+m
+.data[k];
+
+43 
+	}
+}
+
+45 
+	gM©rix
+::~
+	$M©rix
+() {
+
+46 
+°d
+::
+cout
+ << " M©rix::~M©rix()" << std::
+ídl
+;
+
+47 
+dñëe
+[] 
+d©a
+;
+
+48 
+	}
+}
+
+50 
+	gM©rix
+ &M©rix::
+›î©‹
+ = (c⁄° 
+M©rix
+ &
+m
+) {
+
+51 
+°d
+::
+cout
+ << " Matrix &Matrix::operator = (const Matrix &m)"
+
+52 << 
+°d
+::
+ídl
+;
+
+53 i‡(&
+	gm
+ !
+this
+) {
+
+54 
+dñëe
+[] 
+d©a
+;
+
+55 
+	gwidth
+ = 
+m
+.
+width
+;
+
+56 
+	gheight
+ = 
+m
+.
+height
+;
+
+57 
+	gd©a
+ = 
+√w
+ [
+width
+ * 
+height
+];
+
+58 
+	gk
+ = 0; k < 
+width
+ * 
+	gheight
+; k++) {
+
+59 
+	gd©a
+[
+k
+] = 
+m
+.
+d©a
+[k];
+
+61  *
+	gthis
+;
+
+65 
+boﬁ
+ 
+	gM©rix
+::
+›î©‹
+ =(c⁄° 
+M©rix
+ &
+m
+) const {
+
+66 
+°d
+::
+cout
+ << " bool Matrix::operator == (const Matrix &m) const"
+
+67 << 
+°d
+::
+ídl
+;
+
+68 i‡(
+	gwidth
+ !
+m
+.
+width
+ || 
+height
+ != m.height) {
+
+69  
+Ál£
+;
+
+71 
+	gk
+ = 0; k < 
+width
+*
+	gheight
+; k++) {
+
+72 i‡(
+	gd©a
+[
+k
+] !
+m
+.
+d©a
+[k]) {
+
+73  
+Ál£
+;
+
+76  
+	gåue
+;
+
+79 
+M©rix
+ 
+	gM©rix
+::
+›î©‹
+ + (c⁄° M©rix &
+m
+) const {
+
+80 
+°d
+::
+cout
+ << " Matrix Matrix::operator + (const Matrix &m) const"
+
+81 << 
+°d
+::
+ídl
+;
+
+82 i‡(
+	gwidth
+ !
+m
+.
+width
+ || 
+height
+ != m.height) {
+
+83 
+°d
+::
+˚º
+ << "Sizêîr‹" << std::
+ídl
+;
+
+84 
+ab‹t
+();
+
+87 
+M©rix
+ 
+ªsu…
+(
+width
+, 
+height
+);
+
+88 
+	gk
+ = 0; k < 
+width
+ * 
+	gheight
+; k++) {
+
+89 
+	gªsu…
+.
+	gd©a
+[
+k
+] = 
+d©a
+[k] + 
+m
+.data[k];
+
+92  
+	gªsu…
+;
+
+95 
+M©rix
+ 
+	gM©rix
+::
+›î©‹
+ * (c⁄° M©rix &
+m
+) const {
+
+96 
+°d
+::
+cout
+ << " Matrix Matrix::operator * (const Matrix &m) const"
+
+97 << 
+°d
+::
+ídl
+;
+
+98 i‡(
+	gwidth
+ !
+m
+.
+height
+) {
+
+99 
+°d
+::
+˚º
+ << "Sizêîr‹!" << std::
+ídl
+;
+
+100 
+ab‹t
+();
+
+103 
+M©rix
+ 
+ªsu…
+(
+m
+.
+width
+, 
+height
+);
+
+104 
+	gi
+ = 0; i < 
+	gm
+.
+	gwidth
+; i++) {
+
+105 
+	gj
+ = 0; j < 
+	gheight
+; j++) {
+
+106 
+	gs
+ = 0;
+
+107 
+	gk
+ = 0; k < 
+	gwidth
+; k++) {
+
+108 
+	gs
+ +
+d©a
+[
+k
+ + 
+j
+*
+width
+] * 
+m
+.d©a[
+i
+ + m.width*k];
+
+110 
+	gªsu…
+.
+	gd©a
+[
+i
+ + 
+m
+.
+width
+*
+j
+] = 
+s
+;
+
+114  
+	gªsu…
+;
+
+117 &
+	gM©rix
+::
+	$›î©‹
+ (Ë(
+i
+, 
+j
+) {
+
+118 
+°d
+::
+cout
+ << " double &Matrix::operator () (int i, int j)"
+
+119 << 
+°d
+::
+ídl
+;
+
+120 i‡(
+i
+ < 0 || i >
+width
+ || 
+j
+ < 0 || j >
+height
+) {
+
+121 
+°d
+::
+˚º
+ << "Ouào‡bounds!" << std::
+ídl
+;
+
+122 
+	`ab‹t
+();
+
+124  
+d©a
+[
+i
+ + 
+width
+*
+j
+];
+
+125 
+	}
+}
+
+128 
+	gM©rix
+::
+	$¥öt
+() const {
+
+129 
+°d
+::
+cout
+ << " voidÖröt(Ëc⁄°" << std::
+ídl
+;
+
+130 
+j
+ = 0; j < 
+height
+; j++) {
+
+131 
+i
+ = 0; i < 
+width
+; i++) {
+
+132 
+°d
+::
+cout
+ << " " << 
+d©a
+[
+i
+ + 
+width
+*
+j
+];
+
+134 
+°d
+::
+cout
+ << std::
+ídl
+;
+
+136 
+	}
+}
+
+138 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+139 
+°d
+::
+cout
+ << "DOING M©úx m(3, 2),Ç(5, 3);" << std::
+ídl
+;
+
+140 
+M©rix
+ 
+	`m
+(3, 2), 
+	`n
+(5, 3);
+
+141 
+°d
+::
+cout
+ << "DOING M©úx x = m*n;" << std::
+ídl
+;
+
+142 
+M©rix
+ 
+x
+ = 
+m
+*
+n
+;
+
+143 
+°d
+::
+cout
+ << "DOING m.¥öt();" << std::
+ídl
+;
+
+144 
+m
+.
+	`¥öt
+();
+
+145 
+°d
+::
+cout
+ << "DOING m =Ç;" << std::
+ídl
+;
+
+146 
+n
+ = 
+m
+;
+
+147 
+°d
+::
+cout
+ << "DOINGÇ.¥öt();" << std::
+ídl
+;
+
+148 
+n
+.
+	`¥öt
+();
+
+149 
+°d
+::
+cout
+ << "DOING x.¥öt();" << std::
+ídl
+;
+
+150 
+x
+.
+	`¥öt
+();
+
+151 
+x
+
+
+153 
+	}
+}
+
+	@Matrix.cpp
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+4 ˛as†
+	cM©rix
+ {
+
+5 
+	mwidth
+, 
+	mheight
+;
+
+6 *
+	md©a
+;
+
+7 
+	mpublic
+:
+
+8 
+M©rix
+();
+
+9 
+M©rix
+(
+w
+, 
+h
+);
+
+10 
+M©rix
+(c⁄° M©rix &
+m
+);
+
+11 ~
+M©rix
+();
+
+12 
+boﬁ
+ 
+	m›î©‹
+ =(c⁄° 
+M©rix
+ &
+m
+) const;
+
+13 
+	mM©rix
+ &
+	m›î©‹
+ = (c⁄° 
+M©rix
+ &
+m
+);
+
+14 
+M©rix
+ 
+	m›î©‹
+ + (c⁄° 
+	mM©rix
+ &
+	mm
+) const;
+
+15 
+M©rix
+ 
+	m›î©‹
+ * (c⁄° 
+	mM©rix
+ &
+	mm
+) const;
+
+16 &
+	$›î©‹
+ (Ë(
+i
+, 
+j
+);
+
+17 
+	$¥öt
+() const;
+
+20 
+M©rix
+::
+	$M©rix
+() {
+
+21 
+width
+ = 0;
+
+22 
+height
+ = 0;
+
+23 
+d©a
+ = 0;
+
+24 
+	}
+}
+
+26 
+	gM©rix
+::
+	$M©rix
+(
+w
+, 
+h
+) {
+
+27 
+°d
+::
+cout
+ << " M©rix::M©rix(öàw, i¡ h)" << std::
+ídl
+;
+
+28 
+width
+ = 
+w
+;
+
+29 
+height
+ = 
+h
+;
+
+30 
+d©a
+ = 
+√w
+ [
+width
+ * 
+height
+];
+
+31 
+	}
+}
+
+33 
+	gM©rix
+::
+	$M©rix
+(c⁄° 
+M©rix
+ &
+m
+) {
+
+34 
+°d
+::
+cout
+ << " M©rix::M©rix(co¢àM©rix &m)" << std::
+ídl
+;
+
+35 
+width
+ = 
+m
+.width;
+
+36 
+height
+ = 
+m
+.height;
+
+37 
+d©a
+ = 
+√w
+ [
+width
+ * 
+height
+];
+
+38 
+k
+ = 0; k < 
+width
+*
+height
+; k++) {
+
+39 
+d©a
+[
+k
+] = 
+m
+.data[k];
+
+41 
+	}
+}
+
+43 
+	gM©rix
+::~
+	$M©rix
+() {
+
+44 
+°d
+::
+cout
+ << " M©rix::~M©rix()" << std::
+ídl
+;
+
+45 
+dñëe
+[] 
+d©a
+;
+
+46 
+	}
+}
+
+48 
+	gM©rix
+ &M©rix::
+›î©‹
+ = (c⁄° 
+M©rix
+ &
+m
+) {
+
+49 
+°d
+::
+cout
+ << " M©rix &M©rix::›î©‹ = (c⁄° M©rix &m)" << std::
+ídl
+;
+
+50 i‡(&
+	gm
+ !
+this
+) {
+
+51 
+dñëe
+[] 
+d©a
+;
+
+52 
+	gwidth
+ = 
+m
+.
+width
+;
+
+53 
+	gheight
+ = 
+m
+.
+height
+;
+
+54 
+	gd©a
+ = 
+√w
+ [
+width
+ * 
+height
+];
+
+55 
+	gk
+ = 0; k < 
+width
+ * 
+	gheight
+; k++) {
+
+56 
+	gd©a
+[
+k
+] = 
+m
+.
+d©a
+[k];
+
+58  *
+	gthis
+;
+
+62 
+boﬁ
+ 
+	gM©rix
+::
+›î©‹
+ =(c⁄° 
+M©rix
+ &
+m
+) const {
+
+63 
+°d
+::
+cout
+ << " boﬁ M©rix::›î©‹ =(c⁄° M©rix &mËc⁄°" << std::
+ídl
+;
+
+64 i‡(
+	gwidth
+ !
+m
+.
+width
+ || 
+height
+ != m.height) {
+
+65  
+Ál£
+;
+
+67 
+	gk
+ = 0; k < 
+width
+*
+	gheight
+; k++) {
+
+68 i‡(
+	gd©a
+[
+k
+] !
+m
+.
+d©a
+[k]) {
+
+69  
+Ál£
+;
+
+72  
+	gåue
+;
+
+75 
+M©rix
+ 
+	gM©rix
+::
+›î©‹
+ + (c⁄° M©rix &
+m
+) const {
+
+76 
+°d
+::
+cout
+ << " M©rix M©rix::›î©‹ + (c⁄° M©rix &mËc⁄°" << std::
+ídl
+;
+
+77 i‡(
+	gwidth
+ !
+m
+.
+width
+ || 
+height
+ != m.height) {
+
+78 
+°d
+::
+˚º
+ << "Sizêîr‹" << std::
+ídl
+;
+
+79 
+ab‹t
+();
+
+82 
+M©rix
+ 
+ªsu…
+(
+width
+, 
+height
+);
+
+83 
+	gk
+ = 0; k < 
+width
+ * 
+	gheight
+; k++) {
+
+84 
+	gªsu…
+.
+	gd©a
+[
+k
+] = 
+d©a
+[k] + 
+m
+.data[k];
+
+87  
+	gªsu…
+;
+
+90 
+M©rix
+ 
+	gM©rix
+::
+›î©‹
+ * (c⁄° M©rix &
+m
+) const {
+
+91 
+°d
+::
+cout
+ << " M©rix M©rix::›î©‹ * (c⁄° M©rix &mËc⁄°" << std::
+ídl
+;
+
+92 i‡(
+	gwidth
+ !
+m
+.
+height
+) {
+
+93 
+°d
+::
+˚º
+ << "Sizêîr‹!" << std::
+ídl
+;
+
+94 
+ab‹t
+();
+
+97 
+M©rix
+ 
+ªsu…
+(
+m
+.
+width
+, 
+height
+);
+
+98 
+	gi
+ = 0; i < 
+	gm
+.
+	gwidth
+; i++) {
+
+99 
+	gj
+ = 0; j < 
+	gheight
+; j++) {
+
+100 
+	gs
+ = 0;
+
+101 
+	gk
+ = 0; k < 
+	gwidth
+; k++) {
+
+102 
+	gs
+ +
+d©a
+[
+k
+ + 
+j
+*
+width
+] * 
+m
+.d©a[
+i
+ + m.width*k];
+
+104 
+	gªsu…
+.
+	gd©a
+[
+i
+ + 
+m
+.
+width
+*
+j
+] = 
+s
+;
+
+108  
+	gªsu…
+;
+
+111 &
+	gM©rix
+::
+	$›î©‹
+ (Ë(
+i
+, 
+j
+) {
+
+112 
+°d
+::
+cout
+ << " doubÀ &M©rix::›î©‹ (Ë(öài, i¡ j)" << std::
+ídl
+;
+
+113 i‡(
+i
+ < 0 || i >
+width
+ || 
+j
+ < 0 || j >
+height
+) {
+
+114 
+°d
+::
+˚º
+ << "Ouào‡bounds!" << std::
+ídl
+;
+
+115 
+	`ab‹t
+();
+
+117  
+d©a
+[
+i
+ + 
+width
+*
+j
+];
+
+118 
+	}
+}
+
+121 
+	gM©rix
+::
+	$¥öt
+() const {
+
+122 
+°d
+::
+cout
+ << " voidÖröt(Ëc⁄°" << std::
+ídl
+;
+
+123 
+j
+ = 0; j < 
+height
+; j++) {
+
+124 
+i
+ = 0; i < 
+width
+; i++) {
+
+125 
+°d
+::
+cout
+ << " " << 
+d©a
+[
+i
+ + 
+width
+*
+j
+];
+
+127 
+°d
+::
+cout
+ << std::
+ídl
+;
+
+129 
+	}
+}
+
+131 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+132 
+°d
+::
+cout
+ << "DOING M©úx m(3, 2),Ç(5, 3);" << std::
+ídl
+;
+
+133 
+M©rix
+ 
+	`m
+(3, 2), 
+	`n
+(5, 3);
+
+134 
+°d
+::
+cout
+ << "DOING M©úx x = m*n;" << std::
+ídl
+;
+
+135 
+M©rix
+ 
+x
+ = 
+m
+*
+n
+;
+
+136 
+°d
+::
+cout
+ << "DOING m.¥öt();" << std::
+ídl
+;
+
+137 
+m
+.
+	`¥öt
+();
+
+138 
+°d
+::
+cout
+ << "DOING m =Ç;" << std::
+ídl
+;
+
+139 
+n
+ = 
+m
+;
+
+140 
+°d
+::
+cout
+ << "DOINGÇ.¥öt();" << std::
+ídl
+;
+
+141 
+n
+.
+	`¥öt
+();
+
+142 
+°d
+::
+cout
+ << "DOING x.¥öt();" << std::
+ídl
+;
+
+143 
+x
+.
+	`¥öt
+();
+
+145 
+	}
+}
+
+	@MatrixAlmostNull.cc
+
+1 
+	~<c°dlib
+>
+
+4 ˛as†
+	cM©rixAlmo°NuŒ
+ {
+
+5 
+	mwidth
+, 
+	mheight
+;
+
+6 
+	mx
+, 
+	my
+;
+
+7 
+	mv
+;
+
+8 
+	mpublic
+:
+
+9 
+	$öô
+(
+w
+, 
+h
+) {
+
+10 
+width
+ = 
+w
+;
+
+11 
+height
+ = 
+h
+;
+
+12 
+v
+ = 0.0;
+
+14 
+	$de°‹y
+(Ë{ 
+	}
+}
+
+16 
+	$gëVÆue
+(
+i
+, 
+j
+) {
+
+17 i‡((
+i
+<0Ë|| (i>=
+width
+Ë|| (
+j
+<0Ë|| (j>=
+height
+)) {
+
+18 
+	`ab‹t
+();
+
+20 i‡((
+i
+ =
+x
+Ë&& (
+j
+ =
+y
+)) {
+
+21  
+v
+;
+
+25 
+	}
+}
+
+27 
+	$£tVÆue
+(
+i
+, 
+j
+, 
+vv
+) {
+
+28 i‡((
+i
+<0Ë|| (i>=
+width
+Ë|| (
+j
+<0Ë|| (j>=
+height
+)) {
+
+29 
+	`ab‹t
+();
+
+31 i‡((
+v
+ =0.0Ë|| ((
+x
+ =
+i
+Ë&& (
+y
+ =
+j
+))) {
+
+32 
+x
+ = 
+i
+;
+
+33 
+y
+ = 
+j
+;
+
+34 
+v
+ = 
+vv
+;
+
+36 
+	`ab‹t
+();
+
+38 
+	}
+}
+
+	@Node.cc
+
+1 
+	~"Node.h
+"
+
+3 
+	gNode
+::
+	$Node
+(
+Node
+ *
+n
+, 
+v
+) {
+
+4 
+√xt
+ = 
+n
+;
+
+5 
+vÆue
+ = 
+v
+;
+
+6 
+	}
+}
+
+8 
+	gNode
+::
+	$dñëeAŒ
+() {
+
+9 i‡(
+√xt
+) {
+
+10 
+√xt
+->
+	`dñëeAŒ
+();
+
+12 
+dñëe
+ 
+this
+;
+
+13 
+	}
+}
+
+15 
+boﬁ
+ 
+	gNode
+::
+	$c⁄èös
+(
+v
+) {
+
+16  (
+vÆue
+ =
+v
+Ë|| (
+√xt
+ && (√xt->
+	`c⁄èös
+(v)));
+
+17 
+	}
+}
+
+19 
+	gNode
+::
+	$size
+() {
+
+20 i‡(
+√xt
+) {
+
+21  1+
+√xt
+->
+	`size
+();
+
+25 
+	}
+}
+
+28 
+Node
+ * 
+	gNode
+::
+	$˛⁄eAŒ
+() {
+
+29 i‡(
+√xt
+) {
+
+30  
+√w
+ 
+	`Node
+(
+√xt
+->
+	`˛⁄eAŒ
+(), 
+vÆue
+);
+
+32  
+√w
+ 
+	`Node
+(0, 
+vÆue
+);
+
+34 
+	}
+}
+
+36 
+boﬁ
+ 
+	gNode
+::
+	$equÆAŒ
+(
+Node
+ *
+n
+) {
+
+37 i‡(
+n
+) {
+
+38 i‡(
+vÆue
+ !
+n
+->value) {
+
+39  
+Ál£
+;
+
+41 i‡(
+√xt
+) {
+
+42  
+√xt
+->
+	`equÆAŒ
+(
+n
+->next);
+
+44  
+n
+->
+√xt
+ == 0;
+
+47  
+Ál£
+;
+
+48 
+	}
+}
+
+	@Node.h
+
+1 #i‚de‡
+_NODE_H_
+
+
+2 
+	#_NODE_H_
+
+
+	)
+
+4 ˛as†
+	cNode
+ {
+
+5 
+	mpublic
+:
+
+6 
+Node
+ *
+√xt
+;
+
+7 
+	mvÆue
+;
+
+9 
+Node
+(Nodê*
+n
+, 
+v
+);
+
+10 
+dñëeAŒ
+();
+
+11 
+boﬁ
+ 
+c⁄èös
+(
+v
+);
+
+12 
+size
+();
+
+14 
+boﬁ
+ 
+equÆAŒ
+(
+Node
+ *
+n
+);
+
+	@NormalizedVector.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	~<cm©h
+>
+
+5 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 ˛as†
+	cN‹mÆizedVe˘‹
+ {
+
+8 
+	mx
+;
+
+10 
+	my
+;
+
+11 
+	$n‹mÆize
+() {
+
+12 
+n
+ = 
+	`sqπ
+(
+x
+*x + 
+y
+*y);
+
+13 
+x
+ /=
+n
+;
+
+14 
+y
+ /
+n
+;
+
+16 
+public
+:
+
+17 
+	$N‹mÆizedVe˘‹
+(
+xx
+, 
+yy
+) {
+
+18 
+x
+ = 
+xx
+;
+
+19 
+y
+ = 
+yy
+;
+
+20 
+	`n‹mÆize
+();
+
+21 
+	}
+}
+
+30 
+	$gëx
+() const {
+
+31  
+x
+;
+
+32 
+	}
+}
+
+33 
+	$£tx
+(
+x
+) {
+
+34 
+x
+ = x;
+
+35 
+	}
+}
+
+40 
+	$gëy
+() const {
+
+41  
+x
+;
+
+42 
+	}
+}
+
+43 
+	$£ty
+(
+x
+) {
+
+44 
+x
+ = x;
+
+45 
+	}
+}
+
+53 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+54 
+N‹mÆizedVe˘‹
+ 
+	`v
+(3.4, -2.3);
+
+55 
+°d
+::
+cout
+ << 
+v
+.
+	`gëx
+(Ë<< "+" << v.
+	`gëy
+(Ë<< "i" << std::
+ídl
+;
+
+57 
+	}
+}
+
+	@Second.h
+
+1 #i‚de‡
+_SECOND_H_
+
+
+2 
+	#_SECOND_H_
+
+
+	)
+
+4 
+	~"Fú°.h
+"
+
+7 ˛as†
+	cSec⁄d
+ : 
+public
+ 
+Fú°
+
+
+10 
+public
+:
+
+11 
+	$Sec⁄d
+(
+z
+Ë:
+	$Fú°
+(
+z
+) {};
+
+15 
+boﬁ
+ 
+	$posôiveAndN⁄NuŒ
+() {
+
+16  
+	`posôive
+(Ë&& (
+	`gëVÆue
+() != 0.0);
+
+17 
+	}
+}
+
+18 
+	g¥iv©e
+:
+
+	@SimpleClass.cc
+
+1 
+	~<io°ªam
+>
+
+3 ˛as†
+	cSim∂eCœss
+ {
+
+4 
+	mpublic
+:
+
+5 
+	$Sim∂eCœss
+(*
+n
+, 
+v
+) {
+
+6 
+°d
+::
+cout
+ << " " << 
+n
+ << ".SimpleClass("
+
+7 << 
+n
+ << ", " << 
+v
+ << ")" << 
+°d
+::
+ídl
+;
+
+8 
+«me
+ = 
+n
+;
+
+9 
+vÆue
+ = 
+v
+;
+
+11 ~
+	$Sim∂eCœss
+() {
+
+12 
+°d
+::
+cout
+ << " " << 
+«me
+ << ".~Sim∂eCœss()" << std::
+ídl
+;
+
+13 
+	}
+}
+
+14 
+	$ch™geVÆue
+(
+v
+) {
+
+15 
+°d
+::
+cout
+ << " " << 
+«me
+ << ".ch™geVÆue(" << 
+v
+ << ")" << std::
+ídl
+;
+
+16 
+vÆue
+ = 
+v
+;
+
+17 
+	}
+}
+
+18 
+	$ªadVÆue
+() {
+
+19 
+°d
+::
+cout
+ << " " << 
+«me
+ << ".ªadVÆue()" << std::
+ídl
+;
+
+20  
+vÆue
+;
+
+21 
+	}
+}
+
+22 
+	$c›y
+(
+Sim∂eCœss
+ &
+sc
+) {
+
+23 
+°d
+::
+cout
+ << " " << 
+«me
+ << ".c›y(" << 
+sc
+.«mê<< ")" << std::
+ídl
+;
+
+24 
+vÆue
+ = 
+sc
+.value;
+
+25 
+	}
+}
+
+26 
+	g¥iv©e
+:
+
+27 *
+«me
+;
+
+28 
+	gvÆue
+;
+
+31 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+32 
+Sim∂eCœss
+ 
+	`x
+("x", 12);
+
+33 
+Sim∂eCœss
+ 
+	`y
+("y", 14);
+
+34 
+x
+.
+	`c›y
+(
+y
+);
+
+35 
+°d
+::
+cout
+ << 
+x
+.
+	`ªadVÆue
+(Ë<< std::
+ídl
+;
+
+36 
+y
+.
+	`ch™geVÆue
+(10);
+
+37 
+°d
+::
+cout
+ << 
+y
+.
+	`ªadVÆue
+(Ë<< std::
+ídl
+;
+
+39 
+	}
+}
+
+	@SimpleWindow.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	~"Sim∂eWödow.h
+"
+
+5 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+8 
+Sim∂eWödow
+ 
+	`wödow
+("Testing SimpleWindow", 512, 512);
+
+9 
+x
+ = 0; x < 512; x++) {
+
+10 
+y
+ = 0; y < 512; y++) {
+
+11 i‡((
+x
+-256)*(x-256)+(
+y
+-256)*(y-256)
+
+13 
+wödow
+.
+	`cﬁ‹
+(1.0, 0, 0);
+
+15 
+wödow
+.
+	`cﬁ‹
+(0, 0, 1.0);
+
+17 
+wödow
+.
+	`døwPoöt
+(
+x
+, 
+y
+);
+
+20 
+wödow
+.
+	`show
+();
+
+22 
+cö
+.
+	`gë
+();
+
+24 
+	}
+}
+
+	@SimpleWindow.h
+
+1 #i‚de‡
+_SIMPLEWINDOW_H_
+
+
+2 
+	#_SIMPLEWINDOW_H_
+
+
+	)
+
+4 ˛as†
+	cSim∂eWödow
+ {
+
+5 
+	mpublic
+:
+
+6 
+Sim∂eWödow
+(*
+«me
+, 
+w
+, 
+h
+);
+
+7 ~
+Sim∂eWödow
+();
+
+9 
+gëWidth
+();
+
+10 
+gëHeight
+();
+
+12 
+cﬁ‹
+(
+ªd
+, 
+gªí
+, 
+blue
+);
+
+13 
+døwPoöt
+(
+x
+, 
+y
+);
+
+14 
+døwLöe
+(
+x1
+, 
+y1
+, 
+x2
+, 
+y2
+);
+
+15 
+Cú˛e
+(
+x
+, 
+y
+, 
+r
+);
+
+16 
+døwText
+(*
+s
+, 
+x
+, 
+y
+);
+
+17 
+fûlRe˘™gÀ
+(
+x
+, 
+y
+, 
+w
+, 
+h
+);
+
+18 
+show
+();
+
+19 
+fûl
+();
+
+	@TwoDVector.cc
+
+1 
+	~<io°ªam
+>
+
+3 ˛as†
+	cTwoDVe˘‹
+ {
+
+4 
+	mx
+, 
+	my
+;
+
+5 
+	mpublic
+:
+
+6 
+	$TwoDVe˘‹
+() {
+
+7 
+x
+ = 0;
+
+8 
+y
+ = 0;
+
+10 
+	$TwoDVe˘‹
+(
+a
+, 
+b
+) {
+
+11 
+x
+ = 
+a
+;
+
+12 
+y
+ = 
+b
+;
+
+13 
+	}
+}
+
+14 
+TwoDVe˘‹
+ 
+	g›î©‹
+ + (
+	gTwoDVe˘‹
+ &
+	gv
+) {
+
+15  
+TwoDVe˘‹
+(
+x
+ + 
+v
+.x, 
+y
+ + v.y);
+
+17 
+	$¥öt
+() {
+
+18 
+°d
+::
+cout
+ << 
+x
+ << ' ' << 
+y
+ << std::
+ídl
+;
+
+19 
+	}
+}
+
+22 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+23 
+TwoDVe˘‹
+ 
+	`v
+(2, 3);
+
+24 
+TwoDVe˘‹
+ 
+	`w
+(4, 5);
+
+25 
+TwoDVe˘‹
+ 
+z
+;
+
+26 
+z
+ = 
+w
+ + 
+v
+;
+
+27 
+z
+.
+	`¥öt
+();
+
+29 
+	}
+}
+
+	@abort.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+x
+;
+
+7 
+°d
+::
+cout
+ << "EnteráÇon-null value : ";
+
+8 
+°d
+::
+cö
+ >> 
+x
+;
+
+9 i‡(
+x
+ == 0) {
+
+10 
+°d
+::
+˚º
+ << "NuŒ vÆue!" << std::
+ídl
+;
+
+11 
+	`ab‹t
+();
+
+13 
+°d
+::
+cout
+ << 1 / 
+x
+ << std::
+ídl
+;
+
+15 
+	}
+}
+
+	@arithmetic_exceptions.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+5 
+i
+;
+
+6 
+j
+;
+
+7 
+j
+ = 1;
+
+8 
+i
+ = 0; i < 20; i++) {
+
+9 
+j
+ = j*3;
+
+11 
+°d
+::
+cout
+ << 
+j
+ << std::
+ídl
+;
+
+13 
+y
+;
+
+14 
+y
+ = 0.0;
+
+15 
+°d
+::
+cout
+ << 1.0 / 
+y
+ << ' ' << (-1.0Ë/ y << std::
+ídl
+;
+
+16 
+°d
+::
+cout
+ << 
+	`log
+(-1.0Ë<< std::
+ídl
+;
+
+18 
+	}
+}
+
+	@array.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+x
+;
+
+7 
+°d
+::
+cout
+ << "EnteráÇon-null value : ";
+
+8 
+°d
+::
+cö
+ >> 
+x
+;
+
+9 i‡(
+x
+ == 0) {
+
+10 
+°d
+::
+˚º
+ << "NuŒ vÆue!" << std::
+ídl
+;
+
+11 
+	`ab‹t
+();
+
+13 
+°d
+::
+cout
+ << 1 / 
+x
+ << std::
+ídl
+;
+
+15 
+	}
+}
+
+	@array_index.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+x
+[] = {3, 1, 4, 1, 5, 9};
+
+5 
+i
+ = 0; i < 6; i++) {
+
+6 
+°d
+::
+cout
+ << 
+x
+[
+i
+] << std::
+ídl
+;
+
+9 
+	}
+}
+
+	@array_size.cc
+
+1 
+	~<io°ªam
+>
+
+4 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+5 
+hñlo
+[] = {1, 2, 3};
+
+6 
+somëhög
+[] = "abcdef";
+
+7 
+°d
+::
+cout
+ << (
+hñlo
+) / () << ' '
+
+8 << (
+somëhög
+Ë/ (Ë<< 
+°d
+::
+ídl
+;
+
+10 
+	}
+}
+
+	@bi_search.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 
+	$ønk2
+(
+x
+, *
+a
+, 
+n
+) {
+
+8 i‡(
+a
+[0] > 
+x
+) {
+
+11 i‡(
+a
+[
+n
+-1] < 
+x
+) {
+
+15 
+i
+, 
+j
+;
+
+16 
+i
+ = 0;
+
+17 
+j
+ = 
+n
+ - 1;
+
+18 
+i
++1 < 
+j
+) {
+
+19 
+k
+ = (
+i
++
+j
+)/2;
+
+20 i‡(
+a
+[
+k
+] <
+x
+) {
+
+21 
+i
+ = 
+k
+;
+
+23 
+j
+ = 
+k
+;
+
+26 i‡(
+a
+[
+i
+] =
+x
+) {
+
+27  
+i
+;
+
+28 } i‡(
+a
+[
+j
+] =
+x
+){
+
+29  
+j
+;
+
+33 
+	}
+}
+
+34 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+35 
+a
+[] = {1, 5, 6, 7, 9, 12, 14, 23, 24, 24, 123};
+
+36 
+°d
+::
+cout
+ << 
+	`ønk2
+(14, 
+a
+, ◊)/()Ë<< std::
+ídl
+;
+
+38 
+	}
+}
+
+	@bitwise.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+°d
+::
+cout
+ << "128 | 15 = " << (128 | 15Ë<< std::
+ídl
+;
+
+7 
+°d
+::
+cout
+ << "254 & 15 = " << (254 & 15Ë<< std::
+ídl
+;
+
+8 
+°d
+::
+cout
+ << "~15 = " << (~15Ë<< std::
+ídl
+;
+
+10 
+	}
+}
+
+	@bool_operate.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+boﬁ
+ 
+c1
+, 
+c2
+;
+
+5 
+c1
+ = 
+åue
+;
+
+6 
+c2
+ = !
+c1
+ && 
+Ál£
+;
+
+7 
+°d
+::
+cout
+ << 
+c1
+ << ' ' << 
+c2
+ << std::
+ídl
+;
+
+9 
+j
+, 
+i
+;
+
+10 
+j
+ = 3 + (
+i
+ = 5);
+
+11 
+°d
+::
+cout
+ << 
+j
+ << std::
+ídl
+;
+
+13 
+	}
+}
+
+	@break.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+k
+;
+
+7 
+cö
+ >> 
+k
+;
+
+8 
+n
+ = 0;Ç < 100;Ç++) {
+
+9 
+°d
+::
+cout
+ << "¿" << 
+n
+ << std::
+ídl
+;
+
+10 i‡(
+n
+ =
+k
+) {
+
+13 
+°d
+::
+cout
+ << "Wêgÿ⁄" << std::
+ídl
+;
+
+16 
+	}
+}
+
+	@by_reference.cc
+
+1 
+	~<io°ªam
+>
+
+4 
+	~<cm©h
+>
+
+6 
+	$n‹mÆize
+(&
+x
+, &
+y
+) {
+
+7 
+d
+;
+
+8 
+d
+ = 
+	`sqπ
+(
+x
+*x + 
+y
+*y);
+
+9 
+x
+ = x/
+d
+;
+
+10 
+y
+ = y/
+d
+;
+
+11 
+	}
+}
+
+13 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+14 
+a
+, 
+b
+;
+
+15 
+a
+ = 17.3; 
+b
+ = -823.21;
+
+16 
+°d
+::
+cout
+ << 
+	`sqπ
+(
+a
+*®+ 
+b
+*bË<< std::
+ídl
+;
+
+17 
+	`n‹mÆize
+(
+a
+,
+b
+);
+
+18 
+°d
+::
+cout
+ << 
+	`sqπ
+(
+a
+*®+ 
+b
+*bË<< std::
+ídl
+;
+
+20 
+	}
+}
+
+	@by_value.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$°upidfun˘i⁄
+(
+x
+) {
+
+4 
+x
+ = 4;
+
+5 
+	}
+}
+
+7 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+8 
+y
+;
+
+9 
+y
+ = 12;
+
+10 
+	`°upidfun˘i⁄
+(
+y
+);
+
+11 
+°d
+::
+cout
+ << 
+y
+ << std::
+ídl
+;
+
+13 
+	}
+}
+
+	@class.cc
+
+1 ˛as†
+	cM©rix
+ {
+
+2 
+	mwidth
+, 
+	mheigth
+;
+
+3 *
+	md©a
+;
+
+4 
+	mpublic
+:
+
+5 
+	$öô
+(
+w
+, 
+h
+) {
+
+6 
+width
+ = 
+w
+;
+
+7 
+heigth
+ = 
+h
+;
+
+8 
+d©a
+ = 
+√w
+ [
+width
+ * 
+heigth
+];
+
+11 
+	$de°‹y
+(Ë{ 
+dñëe
+[] 
+d©a
+; 
+	}
+}
+
+13 
+	$gëVÆue
+(
+i
+, 
+j
+) {
+
+14  
+d©a
+[
+i
+ + 
+width
+*
+j
+];
+
+15 
+	}
+}
+
+17 
+	$£tVÆue
+(
+i
+, 
+j
+, 
+x
+) {
+
+18 
+d©a
+[
+i
+ + 
+width
+*
+j
+] = 
+x
+;
+
+19 
+	}
+}
+
+22 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+23 
+M©rix
+ 
+m
+;
+
+24 
+m
+.
+	`öô
+(20, 20);
+
+25 
+i
+ = 0; i < 20; i++) {
+
+26 
+m
+.
+	`£tVÆue
+(
+i
+, i, 1.0);
+
+28 
+m
+.
+	`de°‹y
+();
+
+30 
+M©rix
+ *
+q
+;
+
+31 
+q
+ = 
+√w
+ 
+M©rix
+;
+
+32 
+q
+->
+	`öô
+(10, 10);
+
+33 
+i
+ = 0; i < 10; i++) {
+
+34 
+q
+->
+	`£tVÆue
+(
+i
+, i, 1.0);
+
+36 
+q
+->
+	`de°‹y
+();
+
+37 
+dñëe
+ 
+q
+;
+
+40 
+	}
+}
+
+	@commas.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+i
+, 
+j
+, 
+k
+;
+
+7 
+i
+ = 0; 
+j
+ = 0; 
+k
+ = 0;
+
+8 
+°d
+::
+cout
+ << (
+i
+++, 
+j
+ = j+14, 
+k
+ = k-3Ë<< std::
+ídl
+;
+
+9 
+°d
+::
+cout
+ << 
+i
+ << ' ' << 
+j
+ << ' ' << 
+k
+ << std::
+ídl
+;
+
+11 
+	}
+}
+
+	@complexfor.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+7 
+x
+;
+
+8 
+x
+ = 1; 
+	`Ábs
+(
+	`cos
+(x) - x) > 1e-6; x = cos(x)) {
+
+11 
+°d
+::
+cout
+ << 
+x
+ << ' ' << 
+	`cos
+(xË<< std::
+ídl
+;
+
+13 
+	}
+}
+
+	@const.cc
+
+1 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+2 c⁄° 
+x
+ =15;
+
+4 
+boﬁ
+ 
+c⁄d
+ = (
+x
+ = 13);
+
+6 
+	}
+}
+
+	@const_pointer.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 c⁄° 
+x
+ =15;
+
+5 
+°d
+::
+cout
+ << "x = " << 
+x
+ << std::
+ídl
+;
+
+6 *
+p
+ = &
+x
+;
+
+7 *
+p
+ = 98;
+
+9 
+°d
+::
+cout
+ << "x = " << 
+x
+ << std::
+ídl
+;
+
+11 
+	}
+}
+
+	@constructor.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 ˛as†
+	cN‹mÆizeVe˘‹
+ {
+
+5 
+	mx
+, 
+	my
+;
+
+6 
+	mpublic
+:
+
+7 
+	$N‹mÆizeVe˘‹
+(
+a
+, 
+b
+) {
+
+8 
+d
+ = 
+	`sqπ
+(
+a
+*®+ 
+b
+*b);
+
+9 
+x
+ = 
+a
+/
+d
+;
+
+10 
+y
+ = 
+b
+/
+d
+;
+
+12 
+	$gëX
+() {
+
+13  
+x
+;
+
+14 
+	}
+}
+
+15 
+	$gëY
+() {
+
+16  
+y
+;
+
+17 
+	}
+}
+
+21 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+22 
+N‹mÆizeVe˘‹
+ 
+	`v
+(23.0, -45.0);
+
+23 
+°d
+::
+cout
+ << 
+v
+.
+	`gëX
+(Ë<< ' ' << v.
+	`gëY
+(Ë<< std::
+ídl
+;
+
+24 
+N‹mÆizeVe˘‹
+ *
+w
+;
+
+25 
+w
+ = 
+√w
+ 
+	`N‹mÆizeVe˘‹
+(0.0, 5.0);
+
+26 
+°d
+::
+cout
+ << 
+w
+->
+	`gëX
+(Ë<< ' ' << w->
+	`gëY
+(Ë<< std::
+ídl
+;
+
+27 
+dñëe
+ 
+w
+;
+
+29 
+	}
+}
+
+	@continue.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+4 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+5 
+n
+ = 0;Ç < 6;Ç++) {
+
+6 
+°d
+::
+cout
+ << "n" << 
+n
+ << std::
+ídl
+;
+
+7 i‡(
+n
+%2 == 1) {
+
+10 
+°d
+::
+cout
+ << "Thi†i†eví" << std::
+ídl
+;
+
+13 
+	}
+}
+
+	@declare_and_define.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+fun˘i⁄1
+(
+x
+);
+
+7 
+	$fun˘i⁄2
+(
+x
+) {
+
+8 i‡(
+x
+ == 0) {
+
+11  
+	`fun˘i⁄1
+(
+x
+-1);
+
+13 
+	}
+}
+
+15 
+	$fun˘i⁄1
+(
+x
+) {
+
+16 i‡(
+x
+ == 0) {
+
+19  
+	`fun˘i⁄2
+(
+x
+/2);
+
+21 
+	}
+}
+
+23 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+24 
+°d
+::
+cout
+ << 
+	`fun˘i⁄1
+(15Ë<< std::
+ídl
+;
+
+26 
+	}
+}
+
+	@default_constructor.cc
+
+1 ˛as†
+	cSomëhög
+
+
+3 
+	mpublic
+:
+
+4 
+	$Somëhög
+() {};
+
+6 
+	}
+};
+
+8 ˛as†
+	cSomëhögEl£
+
+
+10 
+	mpublic
+:
+
+11 
+	$SomëhögEl£
+(
+x
+) {};
+
+13 
+	}
+};
+
+15 
+	$maö
+(
+¨gc
+, *
+¨gv
+[])
+
+17 
+Somëhög
+ 
+x
+;
+
+18 
+SomëhögEl£
+ 
+y
+;
+
+20 
+	}
+}
+
+	@dereference.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+i
+;
+
+5 *
+p
+ = &
+i
+;
+
+7 
+°d
+::
+cout
+ << "p" << 
+p
+ << std::
+ídl
+;
+
+8 
+i
+ = 4;
+
+9 
+°d
+::
+cout
+ << "i" << 
+i
+ << std::
+ídl
+;
+
+10 *
+p
+ = 10;
+
+11 
+°d
+::
+cout
+ << "i" << 
+i
+ << std::
+ídl
+;
+
+13 
+	}
+}
+
+	@divid_by_zero.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+i
+, 
+j
+;
+
+5 
+i
+ = 0;
+
+6 
+j
+ = 3 / 0;
+
+8 
+	}
+}
+
+	@dy_demi_array_alloc.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 **
+m
+;
+
+7 
+w
+, 
+h
+;
+
+9 
+cö
+ >> 
+w
+ >> 
+h
+;
+
+12 
+m
+ = 
+	`√w
+ (*)[
+w
+];
+
+13 
+k
+ = 0; k < 
+w
+; k++) {
+
+14 
+m
+[
+k
+] = 
+√w
+ [
+h
+];
+
+18 
+k
+ = 0; k < 
+w
+; k++) {
+
+19 
+dñëe
+[] 
+m
+[
+k
+];
+
+21 
+dñëe
+[] 
+m
+;
+
+24 
+	}
+}
+
+	@dynamic_allocation.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 **
+m
+;
+
+7 
+w
+, 
+h
+;
+
+9 
+cö
+ >> 
+w
+ >> 
+h
+;
+
+12 
+m
+ = 
+	`√w
+ (*)[
+w
+];
+
+13 
+k
+ = 0; k < 
+w
+; k++) {
+
+14 
+m
+[
+k
+] = 
+√w
+ [
+h
+];
+
+18 
+k
+ = 0; k < 
+w
+; k++) {
+
+19 
+dñëe
+[] 
+m
+[
+k
+];
+
+21 
+dñëe
+[] 
+m
+;
+
+24 
+	}
+}
+
+	@dynamic_array.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+k
+ = 0; k < 10000; k++) {
+
+7 *
+x
+ = 
+√w
+ [100000];
+
+8 
+°d
+::
+cout
+ << "k = " << 
+k
+ << " (x" << 
+x
+ << ")\n" << std::
+ídl
+;
+
+11 
+	}
+}
+
+	@dynamic_memory.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 *
+	$n‹mÆize
+(*
+a
+, 
+d
+) {
+
+6 
+s
+ = 0.0;
+
+7 
+k
+ = 0; k < 
+d
+; k++) {
+
+8 
+s
+ +
+a
+[
+k
+] *á[k];
+
+10 
+s
+ = 
+	`sqπ
+(s);
+
+13 *
+ªsu…
+ = 
+√w
+ [
+d
+];
+
+16 
+k
+ = 0; k < 
+d
+; k++) {
+
+17 
+ªsu…
+[
+k
+] = 
+a
+[k] / 
+s
+;
+
+19  
+ªsu…
+;
+
+20 
+	}
+}
+
+22 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+23 
+dim
+;
+
+24 
+°d
+::
+cö
+ >> 
+dim
+;
+
+27 *
+v
+ = 
+√w
+ [
+dim
+];
+
+28 
+k
+ = 0; k < 
+dim
+; k++) {
+
+29 
+°d
+::
+cö
+ >> 
+v
+[
+k
+];
+
+33 *
+w
+ = 
+	`n‹mÆize
+(
+v
+, 
+dim
+);
+
+36 
+k
+ = 0; k < 
+dim
+; k++) {
+
+37 
+°d
+::
+cout
+ << 
+w
+[
+k
+] << ' ';
+
+39 
+°d
+::
+cout
+ << std::
+ídl
+;
+
+43 
+dñëe
+[] 
+v
+;
+
+44 
+dñëe
+[] 
+w
+;
+
+46 
+	}
+}
+
+	@enum.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 íum {
+FACULTY
+, 
+STUDENT
+, 
+VISTOR
+} 
+°©us
+;
+
+7 
+°©us
+ = 
+STUDENT
+;
+
+8 
+°d
+::
+cout
+ << 
+°©us
+ + 14 << std::
+ídl
+;
+
+10 
+	}
+}
+
+	@extrem_c.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+ãxt
+[] = "Hello!";
+
+5 
+buf„r
+[256];
+
+6 *
+t
+, *
+s
+;
+
+8 
+s
+ = 
+ãxt
+; 
+t
+ = 
+buf„r
+;
+
+9 *
+t
+++ = *
+s
+++) {
+
+12 
+°d
+::
+cout
+ << 
+ãxt
+ << ' ' << 
+buf„r
+ << std::
+ídl
+;
+
+14 
+	}
+}
+
+	@float_count.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+x
+;
+
+7 
+x
+ = 0; x < 1.0; x = x + 0.1) {
+
+8 
+°d
+::
+cout
+ << 1.0 - 
+x
+ << ' ' ;
+
+10 
+°d
+::
+cout
+ << std::
+ídl
+;
+
+12 
+	}
+}
+
+	@float_error.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+cout
+.
+	`¥ecisi⁄
+(30);
+
+8 
+a
+ = 0;
+
+9 
+i
+ = 0; i < 10; i++) {
+
+10 
+a
+ += (1.0/10.0);
+
+12 
+°d
+::
+cout
+ << "®" << 
+a
+ << std::
+ídl
+;
+
+14 
+b
+ = 0;
+
+15 
+i
+ = 0 ; i < 100; i++) {
+
+16 
+b
+ += (1.0/100.0);
+
+18 
+°d
+::
+cout
+ << "b = " << 
+b
+ << std::
+ídl
+;
+
+20 
+c
+ = 0;
+
+21 
+i
+ = 0; i < 10; i++) {
+
+22 
+c
+ += (1.0/10.0);
+
+24 
+°d
+::
+cout
+ << "¯" << 
+c
+ << std::
+ídl
+;
+
+27 
+	}
+}
+
+	@for.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+4 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+5 
+n
+, 
+k
+;
+
+6 
+cö
+ >> 
+n
+;
+
+7 
+k
+ = 0; k < 
+n
+; k++) {
+
+8 
+°d
+::
+cout
+ << 
+k
+ << std::
+ídl
+;
+
+11 
+	}
+}
+
+	@fstream.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<f°ªam
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 
+	$ÀtSCou¡
+(
+o°ªam
+ &
+s
+, 
+k
+) {
+
+8 
+n
+ = 0;Ç < 
+k
+;Ç++) {
+
+9 
+s
+ << 
+n
+ << '\n';
+
+11 
+	}
+}
+
+13 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+14 
+	`ÀtSCou¡
+(
+cout
+, 50);
+
+15 
+of°ªam
+ 
+	`myFûe
+("count.txt");
+
+16 
+	`ÀtSCou¡
+(
+myFûe
+, 20);
+
+19 
+	}
+}
+
+	@function.cc
+
+1 
+	~<io°ªam
+>
+
+5 
+	$squ¨e
+(
+x
+Ë{ x*x; 
+	}
+}
+
+9 
+	$maxexp⁄
+(
+x
+, 
+y
+) {
+
+10 
+z
+ = 1;
+
+11 
+ªsu…
+ = 0;
+
+12 
+z
+ <
+x
+) {
+
+13 
+ªsu…
+++;
+
+14 
+z
+ = z * 
+y
+;
+
+16  
+ªsu…
+ - 1;
+
+17 
+	}
+}
+
+18 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+19 
+a
+, 
+b
+;
+
+20 
+°d
+::
+cö
+ >> 
+a
+ >> 
+b
+;
+
+23 
+°d
+::
+cout
+ << 
+	`squ¨e
+(
+a
+Ë+ squ¨e◊+
+b
+Ë<< std::
+ídl
+;
+
+25 
+°d
+::
+cout
+ << 
+	`maxexp⁄
+(
+a
+, 
+b
+Ë<< std::
+ídl
+;
+
+27 
+	}
+}
+
+	@if.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+n
+;
+
+7 
+cö
+ >> 
+n
+;
+
+8 i‡(
+n
+ < 0) {
+
+9 
+n
+ = 0;
+
+11 
+n
+ = 2 *Ç;
+
+12 
+n
+ =Ç - 1;
+
+14 
+°d
+::
+cout
+ << 
+n
+ << std::
+ídl
+;
+
+16 
+	}
+}
+
+	@increase.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+i
+, 
+j
+, 
+k
+;
+
+5 
+i
+ = 4; 
+j
+ = ++i;
+
+6 
+i
+ = 4; 
+k
+ = i++;
+
+7 
+°d
+::
+cout
+ << 
+j
+ << ' ' << 
+k
+ << std::
+ídl
+;
+
+8 
+i
+ = 0;
+
+9 
+°d
+::
+cout
+ << 
+i
+++ << ' ' << i++ << std::
+ídl
+;
+
+10 
+i
+ + 3 =5;
+
+11 54 = 
+i
+;
+
+13 
+	}
+}
+
+	@inherite_test.cc
+
+1 
+	~"Fú°.h
+"
+
+2 
+	~"Sec⁄d.h
+"
+
+4 
+	~<io°ªam
+>
+
+7 
+boﬁ
+ 
+	$bŸhPosôive
+(
+Fú°
+ 
+x
+, Fú° 
+y
+) {
+
+8  
+x
+.
+	`posôive
+(Ë&& 
+y
+.positive();
+
+9 
+	}
+}
+
+11 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+12 
+Sec⁄d
+ 
+	`x
+(3), 
+	`y
+(3);
+
+13 
+	`bŸhPosôive
+(
+x
+, 
+y
+);
+
+15 
+	}
+}
+
+	@inline.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+ölöe
+ 
+	$dumb1
+(
+x
+) {
+
+6  17*
+x
+;
+
+7 
+	}
+}
+
+9 
+	$dumb2
+(
+x
+) {
+
+10  17*
+x
+;
+
+11 
+	}
+}
+
+13 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+14 
+x
+ = 4;
+
+15 
+cout
+ << 
+x
+ << 
+ídl
+;
+
+16 
+x
+ = 
+	`dumb1
+(x);
+
+17 
+cout
+ << 
+x
+ << 
+ídl
+;
+
+18 
+x
+ = 
+	`dumb2
+(x);
+
+19 
+cout
+ << 
+x
+ << 
+ídl
+;
+
+21 
+	}
+}
+
+	@istream.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 ˛as†
+	cCøzy
+
+
+7 
+	mpublic
+:
+
+8 
+a
+, 
+	mb
+;
+
+11 
+	gi°ªam
+ & 
+	g›î©‹
+ >> (i°ªam &
+	gi
+, 
+	gCøzy
+ &
+	gc
+) {
+
+12  
+	gi
+ >> (
+	gc
+.
+	ga
+Ë>> (c.
+	gb
+);
+
+15 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+16 
+Cøzy
+ 
+x
+;
+
+17 
+cö
+ >> 
+x
+;
+
+19 
+cout
+ << 
+x
+ << 
+ídl
+;
+
+22 
+	}
+}
+
+	@log.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+7 
+∑øm1
+, 
+∑øm2
+, 
+ªsu…
+;
+
+8 
+∑øm1
+ = 1000000;
+
+9 
+∑øm2
+ = 2;
+
+10 
+ªsu…
+ = 
+	`log10
+(
+∑øm1
+Ë/Üog10(
+∑øm2
+);
+
+11 
+°d
+::
+cout
+ << 
+∑øm1
+ << ' '<< 
+ªsu…
+ << std::
+ídl
+;
+
+13 
+	}
+}
+
+	@lrvalue.cc
+
+1 
+	$nŸhög1
+(
+x
+Ë{
+	}
+}
+
+2 
+	$nŸhög2
+(&
+x
+Ë{
+	}
+}
+
+3 
+	$nŸhög3
+(c⁄° &
+x
+Ë{
+	}
+}
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+	`nŸhög1
+(3+4);
+
+7 
+	`nŸhög2
+(3+4);
+
+8 
+	`nŸhög3
+(3+4);
+
+11 
+	}
+}
+
+	@main_arg.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 * 
+s
+ = "hello world!";
+
+7 
+°d
+::
+cout
+ << 
+s
+ << std::
+ídl
+;
+
+8 
+i
+ = 0; i < 
+¨gc
+; i++) {
+
+9 
+°d
+::
+cout
+ << "¨gumíà#" << 
+i
+ << " i†'" << 
+¨gv
+[i] << "'" << std::
+ídl
+;
+
+12 
+	}
+}
+
+	@member_operator.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dlib
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 ˛as†
+	cO√DAºay
+ {
+
+7 
+	msize
+;
+
+8 *
+	md©a
+;
+
+9 
+	mpublic
+:
+
+10 
+	$O√DAºay
+(
+s
+) {
+
+11 
+size
+ = 
+s
+;
+
+12 
+d©a
+ = 
+√w
+ [
+size
+];
+
+14 ~
+	$O√DAºay
+() {
+
+15 
+dñëe
+[] 
+d©a
+;
+
+16 
+	}
+}
+
+17 &
+	g›î©‹
+ [] (
+	gk
+) {
+
+18 i‡((
+	gk
+ < 0Ë|| (k >
+size
+)) {
+
+19 
+ab‹t
+();
+
+21  
+	gd©a
+[
+k
+];
+
+25 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+26 
+O√DAºay
+ 
+	`a
+(10);
+
+27 
+i
+ = 0; i < 10; i++) {
+
+28 
+a
+[
+i
+] = 1.0/i;
+
+30 
+i
+ = 0; i < 10; i++) {
+
+31 
+°d
+::
+cout
+ << "a[" << 
+i
+ << "] = " << 
+a
+[i] << std::
+ídl
+;
+
+33 
+a
+[14] = 1.0;
+
+36 
+	}
+}
+
+	@memory_leak.cc
+
+1 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+2 *
+a
+ = 
+√w
+ [1000];
+
+4 
+	}
+}
+
+	@multi_cons.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 ˛as†
+	cN‹mÆizedVe˘‹
+ {
+
+7 
+	mpublic
+:
+
+8 
+	$N‹mÆizedVe˘‹
+(
+thëa
+) {
+
+9 
+x
+ = 
+	`cos
+(
+thëa
+) ;
+
+10 
+y
+ = 
+	`sö
+(
+thëa
+);
+
+13 
+	$N‹mÆizedVe˘‹
+(
+a
+, 
+b
+) {
+
+14 
+d
+ = 
+	`sqπ
+(
+a
+*®+ 
+b
+*b);
+
+15 
+x
+ = 
+a
+/
+d
+;
+
+16 
+y
+ = 
+b
+/
+d
+;
+
+17 
+	}
+}
+
+18 
+	$gëX
+(Ë{  
+x
+; 
+	}
+}
+
+19 
+	$gëY
+(Ë{  
+y
+; 
+	}
+}
+
+22 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+25 
+	}
+}
+
+	@null_pointer.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$Àngth
+(*
+s
+) {
+
+6 i‡(
+s
+) {
+
+7 *
+t
+ = 
+s
+;
+
+8 *
+t
+ != '\0') {
+
+9 
+t
+++;
+
+12  
+t
+ - 
+s
+;
+
+16 
+	}
+}
+
+18 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+19 *
+s
+ = 0;
+
+20 
+°d
+::
+cout
+ << 
+	`Àngth
+(
+s
+Ë<< std::
+ídl
+;
+
+21 
+s
+ = "It'sÇotÖersonal, it's business";
+
+22 
+°d
+::
+cout
+ << 
+	`Àngth
+(
+s
+Ë<< std::
+ídl
+;
+
+24 
+	}
+}
+
+	@operand_type.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+°d
+::
+cout
+ << 15 / 4 << ' ' << 15.0 / 4.0 << std::
+ídl
+;
+
+5 
+°d
+::
+cout
+ << 3 + 4.3 << std::
+ídl
+;
+
+6 
+°d
+::
+cout
+ << 3.0 % 4.0 << std::
+ídl
+;
+
+8 
+	}
+}
+
+	@operator_overload.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 ˛as†
+	cCom∂ex
+ {
+
+6 
+	mpublic
+:
+
+7 
+ª
+, 
+	mim
+;
+
+12 
+Com∂ex
+ 
+	g›î©‹
+ + (Com∂ex 
+	gz1
+, Com∂ex 
+	gz2
+) {
+
+13 
+Com∂ex
+ 
+	gªsu…
+;
+
+14 
+	gªsu…
+.
+	gª
+ = 
+z1
+.
+ª
+ + 
+z2
+.re;
+
+15 
+	gªsu…
+.
+	gim
+ = 
+z1
+.
+im
+ + 
+z2
+.im;
+
+16  
+	gªsu…
+;
+
+19 
+Com∂ex
+ 
+	g›î©‹
+ * (Com∂ex 
+	gz1
+, Com∂ex 
+	gz2
+) {
+
+20 
+Com∂ex
+ 
+	gªsu…
+;
+
+21 
+	gªsu…
+.
+	gª
+ = 
+z1
+.
+ª
+ * 
+z2
+.ª - z1.
+im
+ * z2.im;
+
+22 
+	gªsu…
+.
+	gim
+ = 
+z1
+.
+im
+ * 
+z2
+.
+ª
+ + z1.re * z2.im;
+
+23  
+	gªsu…
+;
+
+26 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+27 
+Com∂ex
+ 
+x
+, 
+y
+;
+
+28 
+x
+.
+ª
+ = 5.0; x.
+im
+ = 12.0;
+
+29 
+y
+.
+ª
+ = -1.0;y.
+im
+ = 4.0;
+
+30 
+Com∂ex
+ 
+z
+ = 
+x
+ + (x*
+y
+) + y;
+
+31 
+°d
+::
+cout
+ << 
+z
+.
+ª
+ << " + i." << z.
+im
+ << std::
+ídl
+;
+
+33 
+	}
+}
+
+	@pass_by_reference.cc
+
+1 ˛as†
+	cAnAºay
+ {
+
+2 
+	mpublic
+:
+
+5 
+vÆues
+[1000];
+
+8 
+	$maxByRef
+(
+AnAºay
+ &
+a
+) {
+
+9 
+m
+ = 
+a
+.
+vÆues
+[0];
+
+10 
+i
+ = 1; i < 1000; i++) {
+
+11 i‡(
+a
+.
+vÆues
+[
+i
+] > 
+m
+) {
+
+12 
+m
+ = 
+a
+.
+vÆues
+[
+i
+];
+
+15  
+m
+;
+
+16 
+	}
+}
+
+18 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+19 
+AnAºay
+ 
+a
+;
+
+20 
+i
+, 
+m
+;
+
+21 
+i
+ = 0; i < 1000; i++) {
+
+22 
+a
+.
+vÆues
+[
+i
+] = i;
+
+24 
+i
+ = 0; i < 100000; i++) {
+
+25 
+m
+ = 
+	`maxByRef
+(
+a
+);
+
+29 
+	}
+}
+
+	@pass_by_value.cc
+
+1 ˛as†
+	cAnAºay
+ {
+
+2 
+	mpublic
+:
+
+5 
+vÆues
+[1000];
+
+8 
+	$max
+(
+AnAºay
+ 
+a
+) {
+
+9 
+m
+ = 
+a
+.
+vÆues
+[0];
+
+10 
+i
+ = 1; i < 1000; i++) {
+
+11 i‡(
+a
+.
+vÆues
+[
+i
+] > 
+m
+) {
+
+12 
+m
+ = 
+a
+.
+vÆues
+[
+i
+];
+
+15  
+m
+;
+
+16 
+	}
+}
+
+18 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+19 
+AnAºay
+ 
+a
+;
+
+20 
+i
+, 
+m
+;
+
+21 
+i
+ = 0; i < 1000; i++) {
+
+22 
+a
+.
+vÆues
+[
+i
+] = i;
+
+24 
+i
+ = 0; i < 100000; i++) {
+
+25 
+m
+ = 
+	`max
+(
+a
+);
+
+29 
+	}
+}
+
+	@pivot_sort.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 
+	$pivŸS‹t
+(*
+a
+, 
+n
+) {
+
+7 
+k
+, 
+j
+;
+
+8 
+k
+ = 0; k < 
+n
+; k++) {
+
+9 
+j
+ = 
+k
++1; j < 
+n
+; j++) {
+
+10 i‡(
+a
+[
+k
+] >á[
+j
+]) {
+
+12 
+t
+ = 
+a
+[
+k
+];
+
+13 
+a
+[
+k
+] =á[
+j
+];
+
+14 
+a
+[
+j
+] = 
+t
+;
+
+18 
+	}
+}
+
+20 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+21 
+a
+[] = {23, 45, 23, 546, 679, 3, 4, 32, 567, 34, 23, 465,
+
+23 
+	`pivŸS‹t
+(
+a
+, (a)/());
+
+24 
+k
+ = 0; k < (
+a
+)/(); k++) {
+
+25 
+°d
+::
+cout
+ << 
+a
+[
+k
+] << std::
+ídl
+;
+
+28 
+	}
+}
+
+	@point_array.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$sum
+–*
+x
+, 
+sz
+ ) {
+
+4 
+s
+ = 0;
+
+5 
+k
+ = 0; k < 
+sz
+; k++) {
+
+6 
+s
+ = s + 
+x
+[
+k
+];
+
+8  
+s
+;
+
+9 
+	}
+}
+
+11 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+12 
+coﬁ
+[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+13 
+°d
+::
+cout
+ << 
+	`sum
+(
+coﬁ
+, 10Ë<< std::
+ídl
+;
+
+15 
+	}
+}
+
+	@protected_fields.cc
+
+1 ˛as†
+	cYóh
+ {
+
+2 
+	ma
+;
+
+3 
+	mpublic
+:
+
+6 
+b
+;
+
+7 
+	mx
+;
+
+8 
+	m¥iv©e
+:
+
+9 
+z
+;
+
+13 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+14 
+Yóh
+ 
+y
+;
+
+15 
+y
+.
+a
+ = 5;
+
+16 
+y
+.
+b
+ = 3;
+
+17 
+y
+.
+x
+ = 2.3;
+
+18 
+y
+.
+z
+ = 10.0;
+
+20 
+	}
+}
+
+	@recursive.cc
+
+1 
+	~<io°ªam
+>
+
+4 
+	$Á˘
+(
+k
+) {
+
+5 
+°d
+::
+cout
+ << 
+k
+ << std::
+ídl
+;
+
+6 i‡(
+k
+ == 0) {
+
+9  
+k
+*
+	`Á˘
+(k-1);
+
+11 
+	}
+}
+
+13 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+14 
+n
+ = 
+	`Á˘
+(4);
+
+15 
+°d
+::
+cout
+ << '\n' << 
+n
+ << std::
+ídl
+;
+
+17 
+	}
+}
+
+	@same_routine_twice.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<cm©h
+>
+
+4 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+6 
+	$f
+(
+x
+) {
+
+7  
+	`sö
+(sö(
+x
+Ë+ 
+	`cos
+(x));
+
+8 
+	}
+}
+
+10 
+	$dîiv©ive_of_f
+(
+x
+) {
+
+12  (
+	`cos
+(
+x
+Ë+ 
+	`sö
+(x)) * cos(sin(x) + cos(x));
+
+13 
+	}
+}
+
+15 
+	$dîiv©ive_of_f2
+(
+x
+) {
+
+16  (
+	`cos
+(
+x
+Ë- 
+	`sö
+(x)) * cos(sin(x) + cos(x));
+
+17 
+	}
+}
+
+19 
+	$dúty_dîiv©ive_of_f
+(
+x
+) {
+
+20 
+ïsû⁄
+ = 1e-5;
+
+21  (
+	`f
+(
+x
+ + 
+ïsû⁄
+) - f(x -Épsilon))/(2 *Épsilon);
+
+22 
+	}
+}
+
+24 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+25 
+x
+ = 0.2345;
+
+26 
+°d
+::
+cout
+ << "Thê1° f™cy o√: " << 
+	`dîiv©ive_of_f
+(
+x
+Ë<< std::
+ídl
+;
+
+27 
+°d
+::
+cout
+ << "Thê2nd f™cy o√: " << 
+	`dîiv©ive_of_f2
+(
+x
+Ë<< std::
+ídl
+;
+
+28 
+°d
+::
+cout
+ << "Thêdúty o√: " << 
+	`dúty_dîiv©ive_of_f
+(
+x
+Ë<< std::
+ídl
+;
+
+30 
+	}
+}
+
+	@scope.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+i
+;
+
+5 
+i
+ = 3;
+
+6 i‡(
+i
+ == 3) {
+
+7 
+j
+;
+
+8 
+j
+ = 
+i
+ + 4;
+
+10 
+j
+ = 
+i
+ + 3;
+
+12 
+	}
+}
+
+	@sizeof.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+n
+;
+
+7 
+cout
+ << () << ' ' << () << '\n';
+
+9 
+	}
+}
+
+	@sizeof_point.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+coﬁ
+[10] = {1,2,3,4,5,6,7,8,9,10};
+
+7 *
+coﬁ±r
+ = 
+coﬁ
+;
+
+8 
+°d
+::
+cout
+ << (
+coﬁ
+Ë<< ' ' << (*
+coﬁ±r
+Ë<< std::
+ídl
+;
+
+10 
+	}
+}
+
+	@something.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+k
+;
+
+7 
+k
+=0; k<10; k++) {
+
+8 
+cout
+ << 
+k
+ << 
+ídl
+;
+
+11 
+	}
+}
+
+	@stream.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+x
+, 
+y
+;
+
+7 
+cö
+ >> 
+x
+ >> 
+y
+;
+
+8 
+cout
+ << 
+x
+ / 
+y
+ << '\n';
+
+10 
+	}
+}
+
+	@switch.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+	~<c°dio
+>
+
+5 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+7 
+gëk
+();
+
+9 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+10 
+k
+;
+
+13 
+k
+ = 
+	`gëk
+();
+
+14 
+k
+ !
+EOF
+) {
+
+15 
+k
+) {
+
+17 
+°d
+::
+cout
+ << "O√!" << std::
+ídl
+;
+
+18 
+k
+ = 
+	`gëk
+();
+
+22 
+°d
+::
+cout
+ << "Two!" << std::
+ídl
+;
+
+23 
+k
+ = 
+	`gëk
+();
+
+27 
+°d
+::
+cout
+ << "Thªe!" << std::
+ídl
+;
+
+28 
+k
+ = 
+	`gëk
+();
+
+32 
+°d
+::
+cout
+ << "Didn'àgë it, did you ?" << std::
+ídl
+;
+
+33 
+k
+ = 
+	`gëk
+();
+
+39 
+	}
+}
+
+41 
+	$gëk
+() {
+
+42 
+k
+;
+
+43 
+°d
+::
+cout
+ << "E¡îá vÆuêbëwì¿1ánd 3: " << std::
+ídl
+;
+
+44 
+cö
+ >> 
+k
+;
+
+45  
+k
+;
+
+46 
+	}
+}
+
+	@trace_const.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 ˛as†
+	cSomëhög
+
+
+7 *
+	m«me
+;
+
+8 
+	mpublic
+:
+
+9 
+	$Somëhög
+(*
+n
+) {
+
+10 
+«me
+ = 
+n
+;
+
+11 
+cout
+ << "Cª©ög " << 
+«me
+ << 
+ídl
+;
+
+13 ~
+	$Somëhög
+() {
+
+14 
+cout
+ << "De°‹yög " << 
+«me
+ << 
+ídl
+;
+
+15 
+	}
+}
+
+19 
+	$maö
+(
+¨gc
+, *
+¨gv
+[])
+
+21 
+Somëhög
+ 
+	`x
+("x"), 
+	`y
+("y");
+
+22 
+Somëhög
+ *
+z
+ = 
+√w
+ 
+	`Somëhög
+("z");
+
+23 
+Somëhög
+ 
+	`w
+("w");
+
+24 { 
+Somëhög
+ 
+	`v
+("v");}
+
+25 
+dñëe
+ 
+z
+;
+
+27 
+	}
+}
+
+	@unauthorize_memory_access.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 *
+b
+;
+
+7 
+a
+[10];
+
+8 
+b
+ = 
+√w
+ [10];
+
+9 
+i
+ = 0; i < 20; i++) {
+
+10 
+a
+[
+i
+] = 12;
+
+12 
+°d
+::
+cout
+ << "Wê¨êhîe!" << std::
+ídl
+;
+
+13 
+b
+[20] = 13;
+
+15 
+	}
+}
+
+	@uninit_pointer.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+b
+;
+
+7 
+a
+[10];
+
+8 
+b
+ = 4;
+
+9 
+i
+ = 0; i < 100; i++) {
+
+10 
+a
+[
+i
+] = 12;
+
+11 
+°d
+::
+cout
+ << 
+b
+ << " ";
+
+12 
+cout
+.
+	`Êush
+();
+
+15 
+	}
+}
+
+	@use_gdb.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+5 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+6 
+size
+ = 100;
+
+7 
+a
+[
+size
+];
+
+8 
+i
+ = 0; i < 100 * 
+size
+; i++) {
+
+9 
+a
+[
+i
+] = i;
+
+12 
+	}
+}
+
+	@void.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$¥ötSmÆÀrSqu¨es
+(
+x
+) {
+
+4 
+y
+;
+
+5 
+y
+ = 0; y * y <
+x
+; y++) {
+
+6 
+°d
+::
+cout
+ << 
+y
+ * y << ' ' ;
+
+8 
+°d
+::
+cout
+ << std::
+ídl
+;
+
+9 
+	}
+}
+
+11 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+12 
+	`¥ötSmÆÀrSqu¨es
+(17);
+
+14 
+	}
+}
+
+	@while.cc
+
+1 
+	~<io°ªam
+>
+
+2 
+usög
+ 
+«me•a˚
+ 
+	g°d
+;
+
+4 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+5 
+a
+, 
+b
+, 
+c
+;
+
+6 
+a
+ = 0.0; 
+b
+ = 2.0;
+
+7 
+b
+ - 
+a
+ > 1e-9) {
+
+8 
+c
+ = (
+a
++
+b
+) / 2.0;
+
+9 i‡(
+c
+*c - 2.0 > 0.0) {
+
+10 
+b
+ = 
+c
+;
+
+12 
+a
+ = 
+c
+;
+
+15 
+°d
+::
+cout
+ << 
+c
+ << std::
+ídl
+;
+
+17 
+	}
+}
+
+	@wrong.cc
+
+1 
+	~<io°ªam
+>
+
+3 
+	$maö
+(
+¨gc
+, **
+¨gv
+) {
+
+4 
+x
+[3];
+
+5 
+i
+ = 0; i < 100000000000; i++) {
+
+6 
+x
+[
+i
+] = 0;
+
+7 
+°d
+::
+cout
+ << "Eøsög x[" << 
+i
+ << "]" << std::
+ídl
+;
+
+10 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+91
+1266
+ADouble.cc
+AInteger.cc
+BigThing.cc
+Complex.cc
+Complex_v2.cc
+First.cc
+First.h
+ForSureNonNull.cc
+IntegerSet.cc
+IntegerSet_v2.cc
+LinkedList.cc
+LinkedList.h
+Linked_list_test.cc
+Matrix.cc
+Matrix.cpp
+MatrixAlmostNull.cc
+Node.cc
+Node.h
+NormalizedVector.cc
+Second.h
+SimpleClass.cc
+SimpleWindow.cc
+SimpleWindow.h
+TwoDVector.cc
+abort.cc
+arithmetic_exceptions.cc
+array.cc
+array_index.cc
+array_size.cc
+bi_search.cc
+bitwise.cc
+bool_operate.cc
+break.cc
+by_reference.cc
+by_value.cc
+class.cc
+commas.cc
+complexfor.cc
+const.cc
+const_pointer.cc
+constructor.cc
+continue.cc
+declare_and_define.cc
+default_constructor.cc
+dereference.cc
+divid_by_zero.cc
+dy_demi_array_alloc.cc
+dynamic_allocation.cc
+dynamic_array.cc
+dynamic_memory.cc
+enum.cc
+extrem_c.cc
+float_count.cc
+float_error.cc
+for.cc
+fstream.cc
+function.cc
+if.cc
+increase.cc
+inherite_test.cc
+inline.cc
+istream.cc
+log.cc
+lrvalue.cc
+main_arg.cc
+member_operator.cc
+memory_leak.cc
+multi_cons.cc
+null_pointer.cc
+operand_type.cc
+operator_overload.cc
+pass_by_reference.cc
+pass_by_value.cc
+pivot_sort.cc
+point_array.cc
+protected_fields.cc
+recursive.cc
+same_routine_twice.cc
+scope.cc
+sizeof.cc
+sizeof_point.cc
+something.cc
+stream.cc
+switch.cc
+trace_const.cc
+unauthorize_memory_access.cc
+uninit_pointer.cc
+use_gdb.cc
+void.cc
+while.cc
+wrong.cc

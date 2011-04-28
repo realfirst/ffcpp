@@ -1,0 +1,40 @@
+class Matrix {
+  int width, heigth;
+  double *data;
+public:
+  void init(int w, int h) {
+    width = w;
+    heigth = h;
+    data = new double[width * heigth];
+  }
+
+  void destory() { delete[] data; }
+
+  double getValue(int i, int j) {
+    return data[i + width*j];
+  }
+
+  void setValue(int i, int j, double x) {
+    data[i + width*j] = x;
+  }
+};
+
+int main(int argc, char **argv) {
+  Matrix m;
+  m.init(20, 20);
+  for (int i = 0; i < 20; i++) {
+    m.setValue(i, i, 1.0);
+  }
+  m.destory();
+
+  Matrix *q;
+  q = new Matrix;
+  q->init(10, 10);
+  for (int i = 0; i < 10; i++) {
+    q->setValue(i, i, 1.0);
+  }
+  q->destory();
+  delete q;
+
+  return 0;
+}

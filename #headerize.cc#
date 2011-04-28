@@ -1,0 +1,4 @@
+#ifndef HEADERIZE_CC
+#define HEADERIZE_CC
+
+#endif
