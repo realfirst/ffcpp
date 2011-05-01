@@ -7,5 +7,6 @@ int main(int argc, char **argv) {
   cout << "the patch test of git" << endl;
 
   std::cout << "test of commit --amend" << std::endl;
+  std::cout << "show diff" << std::endl;
   return 0;
 }
