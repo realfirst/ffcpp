@@ -59,4 +59,47 @@ class IntSetArray : public IntSet {
   int size, sizemax;
 };
 
+class Node {     
+ public:
+  int value;
+  Node *next;
+  Node(int v, Node *n) : value(v), next(n) {}
+};
+
+class IntSetListInterator : public IntIterator {     
+ public:
+  IntSetListInterator(Node *n) : current(n) {}
+  bool hasNext() {
+    return current;
+  }
+  int next() {
+    int r = current->value;
+    current = current->next;
+    return r;
+  }
+ private:
+  Node *current;
+};
+
+class IntSetList : public IntSet {     
+ public:
+  IntSetList() : first(0) {}
+  ~IntSetList() {
+    for (Node *n = first; n; n = n->next) {
+      delete n;
+    }
+  }
+  void add(int k) {
+    first = new Node(k, first);
+  }
+  IntIterator *iterator() const {
+    return new IntSetListInterator(first);
+  }
+ private:
+  Node *first;
+};
+
+
+
+
 
