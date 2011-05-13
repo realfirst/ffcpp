@@ -99,7 +99,3 @@ class IntSetList : public IntSet {
   Node *first;
 };
 
-
-
-
-
