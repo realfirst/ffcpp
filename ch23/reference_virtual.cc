@@ -22,7 +22,7 @@ class SecondClass : public FirstClass {
   void print1() {
     cout << "SecondClass::print1()" << endl;
   }
-  virtual void print2() {
+  void print2() {
     cout << "SecondClass::print2()" << endl;
   }
 };
@@ -32,7 +32,7 @@ class ThirdClass : public SecondClass {
   void print1() {
     cout << "ThirdClass::print1()" << endl;
   }
-  virtual void print2() {
+  void print2() {
     cout << "ThirdClass::print2()" << endl;
   }
 };

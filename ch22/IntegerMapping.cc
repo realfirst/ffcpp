@@ -27,7 +27,7 @@ class Negate : public IntegerMapping {
 
 class Compose : public IntegerMapping {     
  public:
-  Compose(IntegerMapping &n1, IntegerMapping &n2) : m1(&n1), m2(&n2) {}
+  Compose(IntegerMapping *n1, IntegerMapping *n2) : m1(n1), m2(n2) {}
   int maps(int x) const {
     return m1->maps(m2->maps(x));
   }
@@ -47,3 +47,4 @@ int main(int argc, char **argv) {
   cout << weird(&c, 15, 16) << endl;
   return 0;
 }
+
